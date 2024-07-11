@@ -22,10 +22,23 @@ DAX is also known as Function language, where the full code kept inside a functi
     Calculated at runtime / Stored temporarily
     Rich Analytical capability
 
-### **Calculated Table**
-  Date tables
-  Role-playing Dimensions
-  what-if-analysis
+  ### **Calculated Table**
+    Date tables
+    Role-playing Dimensions - Individual dimension (Date) playing a main role
+    what-if-analysis
+    Derived table
+
+### Operators
+
+  & Concatenation
+  && AND Operator
+  || OR Operator
+
+### Naming
+
+  Table Name   - Sales
+  Table Name   - 'Canada Sales'
+  Fully qualified column name - Sales[amount]
   
     
 
