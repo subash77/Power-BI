@@ -28,17 +28,41 @@ DAX is also known as Function language, where the full code kept inside a functi
     what-if-analysis
     Derived table
 
-### Operators
+### **Operators**
 
   & Concatenation
   && AND Operator
   || OR Operator
 
-### Naming
+### **Naming**
 
   Table Name   - Sales
   Table Name   - 'Canada Sales'
   Fully qualified column name - Sales[amount]
+
+### **Data Type**
+
+  DateTime, Date, Time
+  Text
+  Whole, Decimal
+  Boolean
+
+### **Row Context VS Filter Context**
+
+  ### Row Context
+
+    Row context calculates each row, with the values within that row.
+    Profit = SUMX(Sales, [Sales Amount] - [Cost Amount])
+
+  ### Filter Context
+
+    Filter context is, a set of filters applied before that table arrives for use.
+    Total Sales = SUM(Sales[Sales Amount])
+
+    Applying filters from Filter Pane / Visuals / Slicers
+
+  
+  
   
     
 
