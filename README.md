@@ -60,7 +60,27 @@ DAX is also known as Function language, where the full code kept inside a functi
     Total Sales = SUM(Sales[Sales Amount])
 
     Applying filters from Filter Pane / Visuals / Slicers
+    
+### **Calculate**
 
+  Evaluates an expression in a context modified by filters
+
+  Total India Sales = Calculate(SUM(Sales),country = 'India')
+
+  Total Sales = Calculate(SUM(Sales),ALL(country)
+
+
+### **DAX Functions**  
+
+  Aggregation functions
+  Date and time functions
+  Time Intelligence functions
+  Filter functions
+  Financial functions
+  Information functions
+  Logical functions
+  
+  
   
   
   
