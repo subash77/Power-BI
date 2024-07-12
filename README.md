@@ -69,13 +69,27 @@ DAX is also known as Function language, where the full code is kept inside a fun
 
   ### **DAX Functions**
   
-    Aggregation functions  
+   ### **Aggregation functions**
+     SUM / SUMX
+     AVERAGE / AVERAGEX
+     MIN / MINX
+     MAX / MAXX
+     COUNT / DISTINCT COUNT
+      
     Date and time functions  
     Time Intelligence functions  
     Filter functions  
     Financial functions  
     Information functions  
     Logical functions
+    Math and Trig functions
+    Other functions
+    Parent and Child functions
+    Relationship functions
+    Statistical functions
+    Table Manipulation functions
+    Text functions
+    
 
   
   
