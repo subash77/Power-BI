@@ -192,7 +192,34 @@ DAX is also known as Function language, where the full code is kept inside a fun
       
     Statistical functions
     Table Manipulation functions
-    Text functions
+    
+  ### **Text functions**
+
+    CONCATENATE
+    CONCATENATEX
+    COMBINEVALUES
+    EXACT
+    FIND
+    FIXED
+    FORMAT
+    LEFT
+    RIGHT
+    LEN
+    LOWER
+    MID
+    REPLACE
+    REPT
+    SEARCH
+    SUBSTITUTE
+    TRIM
+    UNICHAR
+    UNICODE
+    UPPER
+    VALUE
+    
+    
+    
+      
     
 
   
