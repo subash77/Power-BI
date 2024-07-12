@@ -44,7 +44,7 @@ DAX is also known as Function language, where the full code is kept inside a fun
     Whole, Decimal
     Boolean
 
-  ## **Row Context VS Filter Context**
+## **Row Context VS Filter Context**
 
     ### Row Context
 
