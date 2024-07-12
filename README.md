@@ -77,7 +77,14 @@ DAX is also known as Function language, where the full code is kept inside a fun
      COUNT / DISTINCT COUNT
       
     Date and time functions  
-    Time Intelligence functions  
+   ### **Time Intelligence functions**
+
+     TOTALYTD / TOTALQTD / TOTALMTD
+     DATEADD / DATESBETWEEN / DATESINPERIOD
+     FIRSTDATE / LASTDATE
+     YEAR / MONTH / DAY
+     TODAY / EOMONTH
+     
    ### **Filter functions**
      CALCULATE
      FILTER
@@ -91,7 +98,17 @@ DAX is also known as Function language, where the full code is kept inside a fun
     Math and Trig functions
     Other functions
     Parent and Child functions
-    Relationship functions
+    
+  ### **Relationship functions**
+
+    RELATED / RELATEDTABLE / USERELATIONSHIP
+    ISBLANK / HASONEVALUE / USERNAME
+    SUMMARIZE / GROUP BY
+    TREATAS
+    RANKX
+    
+
+      
     Statistical functions
     Table Manipulation functions
     Text functions
