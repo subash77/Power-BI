@@ -72,9 +72,15 @@ DAX is also known as Function language, where the full code is kept inside a fun
    ### **Aggregation functions**
      SUM / SUMX
      AVERAGE / AVERAGEX
-     MIN / MINX
-     MAX / MAXX
-     COUNT / DISTINCT COUNT
+     MIN / MINX / MINA
+     MAX / MAXX / MAXA
+     COUNT / DISTINCT COUNT / COUNTX / COUNTA / COUNTAX / DISTINCTCOUNTNOBLANK
+
+     APPROXIMATEDDISTINCTCOUNT
+     COUNTBLANK
+     COUNTROWS
+     PRODUCT
+     PRODUCTX
       
     Date and time functions  
    ### **Time Intelligence functions**
