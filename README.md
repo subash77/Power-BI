@@ -28,12 +28,10 @@ DAX is also known as Function language, where the full code is kept inside a fun
     what-if-analysis
     Derived table
 
-### **Operators**
-  & Concatenation
-  
-  && AND Operator
-  
-  || OR Operator
+  ### **Operators**
+    & Concatenation
+    && AND Operator
+    || OR Operator
 
 ### **Naming**
 
