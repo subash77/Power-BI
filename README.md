@@ -3,7 +3,7 @@
 ## **DAX** - Data Analysis Expressions
 
 DAX is a library of functions and operators that can be combined to build formulas and Expressions used by Microsoft BI tools.
-DAX is also known as Function language, where the full code kept inside a function.
+DAX is also known as Function language, where the full code is kept inside a function.
 
 ### **Purpose OF DAX** 
   Calculated Columns
@@ -71,14 +71,19 @@ DAX is also known as Function language, where the full code kept inside a functi
 
 
 ### **DAX Functions**
-
   
   Aggregation functions
+  
   Date and time functions
+  
   Time Intelligence functions
+  
   Filter functions
+  
   Financial functions
+  
   Information functions
+  
   Logical functions
 
   
