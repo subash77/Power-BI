@@ -70,8 +70,7 @@ DAX is also known as Function language, where the full code kept inside a functi
   Total Sales = Calculate(SUM(Sales),ALL(country)
 
 
-### **DAX Functions**  
-
+### **DAX Functions**
   Aggregation functions
   Date and time functions
   Time Intelligence functions
@@ -79,6 +78,7 @@ DAX is also known as Function language, where the full code kept inside a functi
   Financial functions
   Information functions
   Logical functions
+
   
   
   
