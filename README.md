@@ -78,7 +78,13 @@ DAX is also known as Function language, where the full code is kept inside a fun
       
     Date and time functions  
     Time Intelligence functions  
-    Filter functions  
+   ### **Filter functions**
+     CALCULATE
+     FILTER
+     ALL / ALLEXCEPT
+     KEEPFILTERS / REMOVEFILTERS
+     LOOKUPVALUE
+     
     Financial functions  
     Information functions  
     Logical functions
