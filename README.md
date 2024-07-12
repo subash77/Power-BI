@@ -46,12 +46,12 @@ DAX is also known as Function language, where the full code is kept inside a fun
 
   ### **Row Context VS Filter Context**
 
-    ### Row Context
+    ###  Row Context
 
       Row context calculates each row, with the values within that row.
       Profit = SUMX(Sales, [Sales Amount] - [Cost Amount])
 
-    ### Filter Context
+    ###  Filter Context
 
       Filter context is, a set of filters applied before that table arrives for use.
       Total Sales = SUM(Sales[Sales Amount])
