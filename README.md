@@ -82,7 +82,33 @@ DAX is also known as Function language, where the full code is kept inside a fun
      PRODUCT
      PRODUCTX
       
-    Date and time functions  
+   ### **Date and time functions**
+
+     CALENDAR
+     CALENDARAUTO
+     DATE
+     DATEDIFF
+     DAY
+     EDATE
+     EOMONTH
+     NOW
+     TODAY
+     MONTH
+     QUARTER
+     YEAR
+
+     HOUR
+     MINUTE
+     SECOND
+     TIME
+     TIMEVALUE
+     UTCNOW
+     UTCTODAY
+     WEEKDAY
+     WEEKNUM
+     YEARFRAC
+     
+     
    ### **Time Intelligence functions**
 
      TOTALYTD / TOTALQTD / TOTALMTD
