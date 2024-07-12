@@ -118,7 +118,7 @@ DAX is also known as Function language, where the full code is kept inside a fun
      TODAY / EOMONTH
      PARALLELPERIOD
      PREVIOIUSDAY / PREVIOUSMONTH / PREVIOUSQUARTER / PREVIOUSYEAR
-     SAMPLEPERIODLASTYEAR
+     SAMEPERIODLASTYEAR
      STARTOFMONTH
      STARTOFQUARTER
      STARTOFYEARDATESBETWEEN
@@ -145,11 +145,13 @@ DAX is also known as Function language, where the full code is kept inside a fun
      
      
    ### **Filter functions**
-     CALCULATE
+     CALCULATE / CALCULATETABLE
      FILTER
-     ALL / ALLEXCEPT
+     ALL / ALLEXCEPT / ALLCROSSFILTERED / ALLNOBLANKROW / ALLSELECTED
      KEEPFILTERS / REMOVEFILTERS
      LOOKUPVALUE
+     EARLIER / EARLIEST
+     SELECTEDVALUE
      
     Financial functions  
     Information functions  
