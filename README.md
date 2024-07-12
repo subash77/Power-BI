@@ -154,8 +154,27 @@ DAX is also known as Function language, where the full code is kept inside a fun
      SELECTEDVALUE
      
     Financial functions  
-    Information functions  
-    Logical functions
+    Information functions
+    
+  ### **Logical functions**
+
+    AND
+    IF / IF.EAGER / IFERROR  
+    NOT
+    OR
+    SWITCH
+    TRUE
+    FALSE
+    COALESCE
+
+    BITAND
+    BITOR
+    BITXOR
+    BITLSHIFT
+    BITRSHIFT
+    
+
+    
     Math and Trig functions
     Other functions
     Parent and Child functions
@@ -167,6 +186,7 @@ DAX is also known as Function language, where the full code is kept inside a fun
     SUMMARIZE / GROUP BY
     TREATAS
     RANKX
+    CROSSFILTER
     
 
       
