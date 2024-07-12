@@ -33,62 +33,49 @@ DAX is also known as Function language, where the full code is kept inside a fun
     && AND Operator
     || OR Operator
 
-### **Naming**
+  ### **Naming**
+    Table Name   - Sales
+    Table Name   - 'Canada Sales'
+    Fully qualified column name - Sales[amount]
 
-  Table Name   - Sales
-  
-  Table Name   - 'Canada Sales'
-  
-  Fully qualified column name - Sales[amount]
+  ### **Data Type**
+    DateTime, Date, Time
+    Text
+    Whole, Decimal
+    Boolean
 
-### **Data Type**
+  ### **Row Context VS Filter Context**
 
-  DateTime, Date, Time
-  
-  Text
-  
-  Whole, Decimal
-  
-  Boolean
+    ### Row Context
 
-### **Row Context VS Filter Context**
+      Row context calculates each row, with the values within that row.
+      Profit = SUMX(Sales, [Sales Amount] - [Cost Amount])
 
-  ### Row Context
+    ### Filter Context
 
-    Row context calculates each row, with the values within that row.
-    Profit = SUMX(Sales, [Sales Amount] - [Cost Amount])
+      Filter context is, a set of filters applied before that table arrives for use.
+      Total Sales = SUM(Sales[Sales Amount])
 
-  ### Filter Context
-
-    Filter context is, a set of filters applied before that table arrives for use.
-    Total Sales = SUM(Sales[Sales Amount])
-
-    Applying filters from Filter Pane / Visuals / Slicers
+      Applying filters from Filter Pane / Visuals / Slicers
     
-### **Calculate**
+  ### **Calculate**
 
-  Evaluates an expression in a context modified by filters
+    Evaluates an expression in a context modified by filters
 
-  Total India Sales = Calculate(SUM(Sales),country = 'India')
+    Total India Sales = Calculate(SUM(Sales),country = 'India')
 
-  Total Sales = Calculate(SUM(Sales),ALL(country)
+    Total Sales = Calculate(SUM(Sales),ALL(country)
 
 
-### **DAX Functions**
+  ### **DAX Functions**
   
-  Aggregation functions
-  
-  Date and time functions
-  
-  Time Intelligence functions
-  
-  Filter functions
-  
-  Financial functions
-  
-  Information functions
-  
-  Logical functions
+    Aggregation functions  
+    Date and time functions  
+    Time Intelligence functions  
+    Filter functions  
+    Financial functions  
+    Information functions  
+    Logical functions
 
   
   
