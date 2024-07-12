@@ -31,20 +31,27 @@ DAX is also known as Function language, where the full code is kept inside a fun
 ### **Operators**
 
   & Concatenation
+  
   && AND Operator
+  
   || OR Operator
 
 ### **Naming**
 
   Table Name   - Sales
+  
   Table Name   - 'Canada Sales'
+  
   Fully qualified column name - Sales[amount]
 
 ### **Data Type**
 
   DateTime, Date, Time
+  
   Text
+  
   Whole, Decimal
+  
   Boolean
 
 ### **Row Context VS Filter Context**
