@@ -29,7 +29,6 @@ DAX is also known as Function language, where the full code is kept inside a fun
     Derived table
 
 ### **Operators**
-
   & Concatenation
   
   && AND Operator
