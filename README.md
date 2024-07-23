@@ -219,6 +219,8 @@ DAX is also known as Function language, where the full code is kept inside a fun
     
     
    ![image](https://github.com/user-attachments/assets/d965f55a-c349-4b3f-947d-8eefb523d12d)
+
+   ### **COUNT Functions**
  
       
     
