@@ -220,7 +220,21 @@ DAX is also known as Function language, where the full code is kept inside a fun
     
    ![image](https://github.com/user-attachments/assets/d965f55a-c349-4b3f-947d-8eefb523d12d)
 
-   ### **COUNT Functions**
+   ## **COUNT Functions**
+
+   COUNT - Count Non-Blank values
+
+   COUNTA - Count True/False Types
+
+   DISTINCTCOUNT - Count Unique Values
+
+   COUNTBLANK - Count Blank Rows
+
+   COUNTROWS - Count Rows in Table
+
+   COUNTX - Count Rows with Expression (Filter)
+
+   COUNTAX - Count Rows with Expression (Filter) with Count True/False Types 
  
       
     
